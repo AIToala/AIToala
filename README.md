@@ -1,6 +1,6 @@
 👋 Hi, I’m Andrés Toala (@AIToala).
 I’m from Ecuador and currently a student in [ESPOL](https://www.espol.edu.ec).
-- 👀 I’m interested in Software Development and Artificial Intelligence.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Web and Mobile development.
 - 💞️ I’m looking to collaborate on anything related to Web Development, looking to extend my programming ability and knowledge about the current technologies.
 - 📫 How to reach me: 
